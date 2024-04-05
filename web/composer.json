@@ -1,0 +1,14 @@
+{
+    "name": "root/web",
+    "autoload": {
+        "psr-4": {
+            "Root\\Web\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davi gabriel silva"
+        }
+    ],
+    "require": {}
+}
